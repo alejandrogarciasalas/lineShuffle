@@ -1,3 +1,10 @@
+/*
+lineShuffle
+ by Alejandro García Salas
+ 
+lines random distribution experiment 
+*/
+
 int num; //num of lines
 float x = 0;
 
