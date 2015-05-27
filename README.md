@@ -1,7 +1,7 @@
 # lineShuffle
 lines random distribution experiment
 
-##screenshots
+##screenshots:
 ![screenshot-1](https://raw.githubusercontent.com/alejandrogarciasalas/lineShuffle/master/screenshots/150527_144230_27.jpg)
 
 ![screenshot-2](https://raw.githubusercontent.com/alejandrogarciasalas/lineShuffle/master/screenshots/150527_144243_32.jpg)
